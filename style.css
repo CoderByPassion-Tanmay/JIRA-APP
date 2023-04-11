@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  height :100%;
+margin : 0px;
+  }
+
+.navbar{
+  height :10%;
+
+  background-color: black;
+}
+
+.main{
+  height :95%;
+  background-color: blue;
+}
